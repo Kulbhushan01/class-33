@@ -1,1 +1,1 @@
-# Eabbit Feeding Game
+# Rabbit Feeding Game
